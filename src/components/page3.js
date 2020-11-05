@@ -7,6 +7,8 @@ const page3 = () => {
            <p align="center"> Showing contents from page3 body </p>
            <li> <a href="./page2"> <p align="center"> Previous Page </p> </a> </li>
            <li> <a href="./"> <p align="center"> First Page </p> </a> </li>
+           <li> <a href="http://www.aiit.com.s3-website.ap-south-1.amazonaws.com/"> <p align="center"> Unsubscribe </p> </a> </li>
+           
        </div>
     );
 }
